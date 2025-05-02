@@ -1,6 +1,6 @@
 ## Chem 7870 Project
 
-Model and plot the band behavior of a metal tip-semiconductor surface system, whose capacitance varies according to distance between the tip and surface.
+Model and plot the behavior of a metal tip-semiconductor surface system, whose capacitance varies according to applied voltage and distance between the tip and surface.
 Install using:
 
 ```
