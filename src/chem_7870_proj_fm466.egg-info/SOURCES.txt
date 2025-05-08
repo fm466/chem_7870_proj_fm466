@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/chem_7870_proj_fm466/__init__.py
+src/chem_7870_proj_fm466/main.py
+src/chem_7870_proj_fm466.egg-info/PKG-INFO
+src/chem_7870_proj_fm466.egg-info/SOURCES.txt
+src/chem_7870_proj_fm466.egg-info/dependency_links.txt
+src/chem_7870_proj_fm466.egg-info/requires.txt
+src/chem_7870_proj_fm466.egg-info/top_level.txt
+tests/tests_main.py

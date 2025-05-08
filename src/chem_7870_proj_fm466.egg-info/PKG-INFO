@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: chem_7870_proj_fm466
+Version: 0.0.1
+Author-email: Felix Mo <fm466@cornell.edu>
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pytest
+Requires-Dist: scipy
+Dynamic: license-file
